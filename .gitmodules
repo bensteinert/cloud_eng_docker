@@ -1,0 +1,3 @@
+[submodule "cloud_eng_code"]
+	path = cloud_eng_code
+	url = git@github.com:comsysto/cloud_eng_code.git
